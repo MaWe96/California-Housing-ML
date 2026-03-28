@@ -10,6 +10,7 @@ Python 3.14
 - Train/test Split
 - Preprocessing & Pipeline
 - Cross Validation
+      - Modeller: Random Forest, Decision Tree, Logistic Regression, Baseline
 - Hyperparameter tuning & out-of-fold
 - Model performance on test data
 
