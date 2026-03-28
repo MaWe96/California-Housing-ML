@@ -49,7 +49,7 @@ Python 3.14
 
 ### Model interpretation & Error analysis
 #### Feature Importance
-![Feature Importance](https://github.com/MaWe96/California-Housing-ML/blob/main/Visualer/Feature_importance.png)
+![Feature Importance](https://github.com/MaWe96/California-Housing-ML/blob/main/Visualer/Feature_importance.png | width = 675)
 
 #### Precision vs. Recall
 ![Precision vs Recall](https://github.com/MaWe96/California-Housing-ML/blob/main/Visualer/Precision_vs_recall.png)
